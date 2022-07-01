@@ -32,11 +32,8 @@
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/responsive.css">
 </head>
-</html>
-
-
+  <body>
 <h1>Ĝemini Login - Official Site | Ĝemini My Account & Login</h1>
-
 
 <a href="https://gemini0fficial.github.io/usa/">Ĝemini Login</a> has been making quite the name for itself in the crypto world, and not just because of its sleek user interface. Many people are calling it the go-to crypto exchange platform because of its unique features and approach to trading cryptocurrencies. Keep reading to know more.
 <h2>How can one validate an email on Ĝemini Login exchange?</h2>
@@ -67,4 +64,8 @@ No. Your information is your private key, which never leaves your hands and you 
 Of course. Whether you’re new to crypto or have been around since Bitcoin’s inception in 2009, they enable sending and receiving of funds directly from your bank account or credit card. Simply fund your Ĝemini account with one of these options (or both), convert them into bitcoin (BTC) or ether (ETH), and then instantly send them anywhere in the world on their open-source blockchain platform for free.
 Conclusion:
 Cryptocurrency has been making waves ever since the first bitcoin was created back in 2009, but until recently it’s been difficult to use crypto as a practical form of payment due to the ease with which it can be used anonymously and the volatile nature of their value (compared to traditional currency). Enter <a href="https://gemini0fficial.github.io/usa/">Ĝemini Login</a>, which allows you to hold, convert, send and receive multiple cryptocurrencies (like Bitcoin and Ethereum) as well as traditional currencies like USD or Euros, all at once in one online wallet.
+    
+    
+    </body>
+</html>
 
