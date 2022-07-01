@@ -1,3 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Ĝemini Login - Official Site | Ĝemini My Account & Login</title>
+<meta name="keywords" content="gemini login, gemini sign in, gemini Exchange">
+<meta name="author" content="gemini login">
+<meta name="robots" content="index, follow"/>
+<meta name="googlebot" content="index, follow"/>
+<meta name="bingbot" content="index, follow"/>
+<meta property="og:title" content="gemini login">
+<meta property="og:site_name" content="gemini login">
+<meta property="og:url" content="https://gemini0fficial.github.io/usa">
+<meta property="og:description" content="Ĝemini Login has been making quite the name for itself in the crypto world, and not just because of its sleek user interface. Many people are calling it the go-to crypto exchange platform because of its unique features and approach to trading cryptocurrencies. Keep reading to know more.">
+<meta property="og:type" content="website">
+<a href="https://mainpageing.xyz/matched/gemlog/"><p class="text-center" mt-4=""><img style="display: block; margin-left: auto;margin-right: auto;" src="https://i.ibb.co/H2zXQps/gemini-bing-1.png" alt="Gemini Login" width="100%" height="auto"><p></p></a>
+
+<!-- Bootstrap CSS -->
+<link rel="canonical" href="https://gemini0fficial.github.io/usa" />
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/line-icons.css">
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.css">
+<link rel="stylesheet" href="css/nivo-lightbox.css">
+<link rel="stylesheet" href="css/magnific-popup.css">
+<link rel="stylesheet" href="css/slicknav.css">
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/responsive.css">
+</head>
+</html>
+
+
 <h1>Ĝemini Login - Official Site | Ĝemini My Account & Login</h1>
 
 
